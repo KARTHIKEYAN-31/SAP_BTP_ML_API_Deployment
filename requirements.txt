@@ -1,0 +1,6 @@
+flask
+pycaret
+pandas
+numpy
+pyod
+gunicorn

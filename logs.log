@@ -1,0 +1,1335 @@
+2023-07-10 10:39:33,972:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:39:33,973:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:39:33,973:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:39:33,973:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:40:01,185:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:40:01,185:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:40:01,185:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:40:01,185:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:18,028:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:18,028:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:18,028:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:18,028:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:25,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:25,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:25,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:25,664:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:51,365:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:51,365:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:51,365:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:50:51,365:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:54:51,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:54:51,932:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:54:51,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:54:51,933:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:08,552:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:08,552:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:08,552:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:08,552:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:26,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:26,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:26,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:26,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:32,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:32,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:32,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:32,683:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:36,060:INFO:Initializing load_model()
+2023-07-10 10:55:36,060:INFO:load_model(model_name=water_qda_model.pkl, platform=None, authentication=None, verbose=True)
+2023-07-10 10:55:43,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:43,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:43,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:55:43,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:12,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:12,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:12,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:12,708:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:19,994:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:19,994:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:19,994:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:19,994:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:21,761:INFO:Initializing load_model()
+2023-07-10 10:56:21,761:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 10:56:21,848:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 10:56:21,889:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 10:56:21,911:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 10:56:28,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:28,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:28,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:56:28,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:07,250:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:07,251:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:07,251:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:07,251:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:14,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:14,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:14,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:14,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 10:58:16,176:INFO:Initializing load_model()
+2023-07-10 10:58:16,176:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 10:58:16,182:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 10:58:16,187:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 10:58:16,192:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 11:00:19,080:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:19,080:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:19,080:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:19,080:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:26,727:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:26,728:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:26,728:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:26,728:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:28,492:INFO:Initializing load_model()
+2023-07-10 11:00:28,493:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 11:00:28,499:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:00:28,504:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:00:28,508:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 11:00:35,220:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:35,220:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:35,220:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:00:35,220:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:17,042:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:17,042:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:17,042:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:17,042:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:24,593:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:24,594:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:24,594:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:24,594:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:01:26,289:INFO:Initializing load_model()
+2023-07-10 11:01:26,290:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 11:01:26,296:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:01:26,300:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:01:26,305:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 11:03:48,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:03:48,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:03:48,410:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:03:48,411:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:03:58,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:03:58,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:03:58,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:03:58,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:04:05,387:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:04:05,388:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:04:05,388:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:04:05,388:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:04:07,029:INFO:Initializing load_model()
+2023-07-10 11:04:07,029:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 11:04:07,037:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:04:07,040:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:04:07,045:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 11:05:36,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:05:36,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:05:36,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:05:36,662:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:05:59,946:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:05:59,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:05:59,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:05:59,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:06:07,510:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:06:07,510:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:06:07,510:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:06:07,510:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 11:06:09,219:INFO:Initializing load_model()
+2023-07-10 11:06:09,219:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 11:06:09,226:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:06:09,230:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 11:06:09,235:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 11:06:09,286:INFO:Initializing predict_model()
+2023-07-10 11:06:09,287:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001FE909B2D70>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001FE909BB490>)
+2023-07-10 11:06:09,287:INFO:Checking exceptions
+2023-07-10 11:06:09,287:INFO:Preloading libraries
+2023-07-10 11:06:09,302:INFO:Set up data.
+2023-07-10 11:06:09,329:INFO:Set up index.
+2023-07-10 14:31:31,710:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:31:31,710:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:31:31,710:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:31:31,710:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:17,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:17,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:17,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:17,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:25,101:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:25,102:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:25,102:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:25,102:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:27,055:INFO:Initializing load_model()
+2023-07-10 14:33:27,056:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 14:33:27,082:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 14:33:27,097:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 14:33:27,118:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 14:33:34,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:34,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:34,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:33:34,966:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:29,324:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:29,325:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:29,325:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:29,325:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:36,568:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:36,568:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:36,568:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:36,568:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:59,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:59,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:59,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:34:59,947:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:09,393:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:09,394:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:09,394:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:09,394:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:17,048:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:17,048:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:17,048:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:17,048:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:18,727:INFO:Initializing load_model()
+2023-07-10 14:35:18,727:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 14:35:18,734:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 14:35:18,738:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 14:35:18,742:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 14:35:18,766:INFO:Initializing predict_model()
+2023-07-10 14:35:18,767:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000020B74552D70>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000020B7455B520>)
+2023-07-10 14:35:18,767:INFO:Checking exceptions
+2023-07-10 14:35:18,767:INFO:Preloading libraries
+2023-07-10 14:35:18,767:INFO:Set up data.
+2023-07-10 14:35:18,776:INFO:Set up index.
+2023-07-10 14:35:48,479:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:48,479:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:48,480:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 14:35:48,480:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:29,741:INFO:Initializing load_model()
+2023-07-10 15:36:29,742:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 15:36:29,760:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 15:36:29,775:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 15:36:36,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:36,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:36,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:36,649:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:48,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:48,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:48,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:48,215:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:55,333:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:55,334:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:55,334:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:55,334:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:36:57,070:INFO:Initializing load_model()
+2023-07-10 15:36:57,071:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-10 15:36:57,077:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 15:36:57,081:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-10 15:36:57,085:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-10 15:36:57,100:INFO:Initializing predict_model()
+2023-07-10 15:36:57,101:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000265E32E3910>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000265E32EB490>)
+2023-07-10 15:36:57,101:INFO:Checking exceptions
+2023-07-10 15:36:57,101:INFO:Preloading libraries
+2023-07-10 15:36:57,102:INFO:Set up data.
+2023-07-10 15:36:57,109:INFO:Set up index.
+2023-07-10 15:37:05,293:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:37:05,294:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:37:05,294:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:37:05,294:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:38:02,436:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:38:02,436:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:38:02,437:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:38:02,437:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:53:21,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:53:21,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:53:21,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-10 15:53:21,604:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:26,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:26,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:26,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:26,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:36,909:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:36,909:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:36,909:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:36,909:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:38,565:INFO:Initializing load_model()
+2023-07-11 11:30:38,565:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 11:30:38,634:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 11:30:38,639:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 11:30:38,669:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 11:30:38,682:INFO:Initializing predict_model()
+2023-07-11 11:30:38,682:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A3B4B039A0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A3B4B0B490>)
+2023-07-11 11:30:38,682:INFO:Checking exceptions
+2023-07-11 11:30:38,683:INFO:Preloading libraries
+2023-07-11 11:30:38,683:INFO:Set up data.
+2023-07-11 11:30:38,691:INFO:Set up index.
+2023-07-11 11:30:45,598:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:45,598:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:45,598:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:30:45,598:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:41,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:41,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:41,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:41,690:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:48,985:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:49,001:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:49,001:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:46:49,001:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 11:53:03,296:INFO:Initializing load_model()
+2023-07-11 11:53:03,296:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 11:53:03,300:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 11:53:03,306:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 11:53:03,312:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 11:53:03,325:INFO:Initializing predict_model()
+2023-07-11 11:53:03,326:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B4A5B83760>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B4A5B89240>)
+2023-07-11 11:53:03,326:INFO:Checking exceptions
+2023-07-11 11:53:03,326:INFO:Preloading libraries
+2023-07-11 11:53:03,326:INFO:Set up data.
+2023-07-11 11:53:03,337:INFO:Set up index.
+2023-07-11 12:22:09,621:INFO:Initializing load_model()
+2023-07-11 12:22:09,621:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:22:09,622:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:22:09,624:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:22:09,625:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:22:09,637:INFO:Initializing predict_model()
+2023-07-11 12:22:09,637:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B4A5BA8C70>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B4A5B89EA0>)
+2023-07-11 12:22:09,637:INFO:Checking exceptions
+2023-07-11 12:22:09,637:INFO:Preloading libraries
+2023-07-11 12:22:09,637:INFO:Set up data.
+2023-07-11 12:22:09,644:INFO:Set up index.
+2023-07-11 12:22:45,300:INFO:Initializing load_model()
+2023-07-11 12:22:45,300:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:22:45,301:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:22:45,303:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:22:45,304:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:22:45,314:INFO:Initializing predict_model()
+2023-07-11 12:22:45,314:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B4A5BA81F0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B4A5BA67A0>)
+2023-07-11 12:22:45,314:INFO:Checking exceptions
+2023-07-11 12:22:45,314:INFO:Preloading libraries
+2023-07-11 12:22:45,315:INFO:Set up data.
+2023-07-11 12:22:45,321:INFO:Set up index.
+2023-07-11 12:22:52,129:INFO:Initializing load_model()
+2023-07-11 12:22:52,130:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:22:52,131:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:22:52,133:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:22:52,134:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:22:52,143:INFO:Initializing predict_model()
+2023-07-11 12:22:52,143:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B4A5BAA380>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B4A5BA7250>)
+2023-07-11 12:22:52,143:INFO:Checking exceptions
+2023-07-11 12:22:52,143:INFO:Preloading libraries
+2023-07-11 12:22:52,144:INFO:Set up data.
+2023-07-11 12:22:52,151:INFO:Set up index.
+2023-07-11 12:23:19,623:INFO:Initializing load_model()
+2023-07-11 12:23:19,623:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:23:19,624:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:23:19,625:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:23:19,627:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:23:19,640:INFO:Initializing predict_model()
+2023-07-11 12:23:19,641:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B4A5BA9A80>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B4A5BA7D90>)
+2023-07-11 12:23:19,641:INFO:Checking exceptions
+2023-07-11 12:23:19,641:INFO:Preloading libraries
+2023-07-11 12:23:19,641:INFO:Set up data.
+2023-07-11 12:23:19,649:INFO:Set up index.
+2023-07-11 12:24:24,697:INFO:Initializing load_model()
+2023-07-11 12:24:24,697:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:24:24,699:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:24:24,701:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:24:24,702:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:24:24,710:INFO:Initializing predict_model()
+2023-07-11 12:24:24,710:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B4A5B81870>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B4A5BA49D0>)
+2023-07-11 12:24:24,711:INFO:Checking exceptions
+2023-07-11 12:24:24,711:INFO:Preloading libraries
+2023-07-11 12:24:24,711:INFO:Set up data.
+2023-07-11 12:24:24,719:INFO:Set up index.
+2023-07-11 12:25:49,002:INFO:Initializing load_model()
+2023-07-11 12:25:49,002:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:25:49,004:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:25:49,005:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:25:49,006:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:25:49,019:INFO:Initializing predict_model()
+2023-07-11 12:25:49,020:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B4A5BA97B0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001B4A5BA51B0>)
+2023-07-11 12:25:49,020:INFO:Checking exceptions
+2023-07-11 12:25:49,020:INFO:Preloading libraries
+2023-07-11 12:25:49,021:INFO:Set up data.
+2023-07-11 12:25:49,033:INFO:Set up index.
+2023-07-11 12:26:39,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:39,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:39,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:39,196:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:46,257:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:46,257:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:46,257:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:46,257:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 12:26:47,908:INFO:Initializing load_model()
+2023-07-11 12:26:47,908:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:26:47,914:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:26:47,918:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:26:47,922:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:26:47,935:INFO:Initializing predict_model()
+2023-07-11 12:26:47,935:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024BFED72D70>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024BFED7B490>)
+2023-07-11 12:26:47,935:INFO:Checking exceptions
+2023-07-11 12:26:47,935:INFO:Preloading libraries
+2023-07-11 12:26:47,936:INFO:Set up data.
+2023-07-11 12:26:47,943:INFO:Set up index.
+2023-07-11 12:29:10,655:INFO:Initializing load_model()
+2023-07-11 12:29:10,655:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:29:10,656:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:29:10,657:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:29:10,658:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:29:10,668:INFO:Initializing predict_model()
+2023-07-11 12:29:10,668:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024BFEDEC700>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024BFEE4AC20>)
+2023-07-11 12:29:10,668:INFO:Checking exceptions
+2023-07-11 12:29:10,668:INFO:Preloading libraries
+2023-07-11 12:29:10,669:INFO:Set up data.
+2023-07-11 12:29:10,676:INFO:Set up index.
+2023-07-11 12:30:04,954:INFO:Initializing load_model()
+2023-07-11 12:30:04,954:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 12:30:04,955:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:30:04,956:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 12:30:04,958:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 12:30:04,968:INFO:Initializing predict_model()
+2023-07-11 12:30:04,968:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024BFEDEDCF0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024BFEE49BD0>)
+2023-07-11 12:30:04,968:INFO:Checking exceptions
+2023-07-11 12:30:04,968:INFO:Preloading libraries
+2023-07-11 12:30:04,969:INFO:Set up data.
+2023-07-11 12:30:04,974:INFO:Set up index.
+2023-07-11 13:56:15,042:INFO:Initializing load_model()
+2023-07-11 13:56:15,042:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 13:56:15,043:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 13:56:15,045:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 13:56:15,047:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 13:56:15,057:INFO:Initializing predict_model()
+2023-07-11 13:56:15,057:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000024BFEDEC5E0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024BFEE48670>)
+2023-07-11 13:56:15,057:INFO:Checking exceptions
+2023-07-11 13:56:15,057:INFO:Preloading libraries
+2023-07-11 13:56:15,057:INFO:Set up data.
+2023-07-11 13:56:15,065:INFO:Set up index.
+2023-07-11 13:57:24,725:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:24,725:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:24,725:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:24,725:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:35,085:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:35,085:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:35,085:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:35,086:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:36,935:INFO:Initializing load_model()
+2023-07-11 13:57:36,936:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 13:57:36,943:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 13:57:36,950:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 13:57:36,955:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 13:57:36,970:INFO:Initializing predict_model()
+2023-07-11 13:57:36,970:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000016F01C03010>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000016F01C0B490>)
+2023-07-11 13:57:36,970:INFO:Checking exceptions
+2023-07-11 13:57:36,970:INFO:Preloading libraries
+2023-07-11 13:57:36,971:INFO:Set up data.
+2023-07-11 13:57:36,982:INFO:Set up index.
+2023-07-11 13:57:44,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:44,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:44,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 13:57:44,648:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:21,559:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:21,559:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:21,559:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:21,559:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:29,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:29,107:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:29,108:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:29,108:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:04:30,788:INFO:Initializing load_model()
+2023-07-11 14:04:30,788:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:04:30,795:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:04:30,799:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:04:30,803:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:06:22,246:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:22,246:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:22,246:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:22,246:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:29,448:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:29,448:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:29,449:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:29,449:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:31,095:INFO:Initializing load_model()
+2023-07-11 14:06:31,095:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:06:31,101:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:06:31,105:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:06:31,111:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:06:51,820:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:51,820:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:51,820:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:51,820:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:58,956:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:58,956:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:58,956:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:06:58,956:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:07:00,618:INFO:Initializing load_model()
+2023-07-11 14:07:00,618:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:07:00,624:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:07:00,629:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:07:00,633:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:07:07,716:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:07:07,716:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:07:07,716:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:07:07,716:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:11,623:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:11,624:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:11,624:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:11,624:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:19,380:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:19,381:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:19,381:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:19,381:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:11:21,149:INFO:Initializing load_model()
+2023-07-11 14:11:21,150:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:11:21,157:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:11:21,160:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:11:21,165:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:13:09,418:INFO:Initializing load_model()
+2023-07-11 14:13:09,418:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:13:14,870:INFO:Initializing load_model()
+2023-07-11 14:13:14,870:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:15:08,381:INFO:Initializing load_model()
+2023-07-11 14:15:08,381:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:15:25,452:INFO:Initializing load_model()
+2023-07-11 14:15:25,453:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:15:40,028:INFO:Initializing load_model()
+2023-07-11 14:15:40,028:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:15:40,045:INFO:Initializing predict_model()
+2023-07-11 14:15:40,045:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001AFF3A431F0>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001AFF3AB8160>)
+2023-07-11 14:15:40,046:INFO:Checking exceptions
+2023-07-11 14:15:40,046:INFO:Preloading libraries
+2023-07-11 14:15:40,046:INFO:Set up data.
+2023-07-11 14:15:47,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:15:47,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:15:47,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:15:47,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:17:18,776:INFO:Initializing load_model()
+2023-07-11 14:17:18,776:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:17:18,779:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:17:18,783:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:17:18,792:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:17:18,817:INFO:Initializing predict_model()
+2023-07-11 14:17:18,817:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001D1AA7B1270>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D1AA7B9900>)
+2023-07-11 14:17:18,817:INFO:Checking exceptions
+2023-07-11 14:17:18,817:INFO:Preloading libraries
+2023-07-11 14:17:18,817:INFO:Set up data.
+2023-07-11 14:17:18,833:INFO:Set up index.
+2023-07-11 14:17:31,659:INFO:Initializing load_model()
+2023-07-11 14:17:31,659:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:17:31,660:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:17:31,662:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:17:31,663:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:17:31,674:INFO:Initializing predict_model()
+2023-07-11 14:17:31,674:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001D1AA7B2260>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D1AA884310>)
+2023-07-11 14:17:31,674:INFO:Checking exceptions
+2023-07-11 14:17:31,674:INFO:Preloading libraries
+2023-07-11 14:17:31,675:INFO:Set up data.
+2023-07-11 14:17:31,683:INFO:Set up index.
+2023-07-11 14:18:14,871:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:14,872:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:14,872:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:14,872:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:22,267:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:22,267:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:22,268:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:22,268:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:18:23,924:INFO:Initializing load_model()
+2023-07-11 14:18:23,924:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:18:23,930:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:18:23,933:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:18:23,939:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:18:23,949:INFO:Initializing predict_model()
+2023-07-11 14:18:23,949:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000161DB391C00>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000161DB39AEF0>)
+2023-07-11 14:18:23,949:INFO:Checking exceptions
+2023-07-11 14:18:23,950:INFO:Preloading libraries
+2023-07-11 14:18:23,950:INFO:Set up data.
+2023-07-11 14:18:23,974:INFO:Set up index.
+2023-07-11 14:18:31,735:INFO:Initializing load_model()
+2023-07-11 14:18:31,736:INFO:load_model(model_name=water_qda_model, platform=None, authentication=None, verbose=True)
+2023-07-11 14:18:31,737:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:18:31,739:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\sklearn\base.py:299: UserWarning: Trying to unpickle estimator QuadraticDiscriminantAnalysis from version 1.2.2 when using version 1.2.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-07-11 14:18:31,740:WARNING:C:\Users\mm0697\AppData\Local\anaconda3\lib\site-packages\pycaret\internal\pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.3.1', 'setuptools': '65.6.3', 'pycaret': '3.0.4', 'IPython': '8.10.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.0', 'joblib': '1.3.1', 'sklearn': '1.2.1', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.28.1', 'matplotlib': '3.7.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.0', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '2.0.0', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.10.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.4', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.1.0', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.13.5', 'sktime': '0.20.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.2.0', 'wurlitzer': '3.0.3'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-07-11 14:18:31,749:INFO:Initializing predict_model()
+2023-07-11 14:18:31,749:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000161DB392500>, estimator=Pipeline(memory=FastMemory(location=/tmp/joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['ph', 'Hardness', 'Solids',
+                                             'Chloramines', 'Sulfate',
+                                             'Conductivity', 'Organic_carbon',
+                                             'Trihalomethanes', 'Turbidity'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', QuadraticDiscriminantAnalysis())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000161DB39BEB0>)
+2023-07-11 14:18:31,750:INFO:Checking exceptions
+2023-07-11 14:18:31,750:INFO:Preloading libraries
+2023-07-11 14:18:31,750:INFO:Set up data.
+2023-07-11 14:18:31,756:INFO:Set up index.
+2023-07-11 14:19:12,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:19:12,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:19:12,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:19:12,917:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:20:14,451:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:20:14,451:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:20:14,451:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-07-11 14:20:14,451:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
